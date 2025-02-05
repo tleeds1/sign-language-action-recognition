@@ -1,1 +1,1 @@
-A repo using LTSM to recognise sign language
+A repo using LSTM to recognise sign language
